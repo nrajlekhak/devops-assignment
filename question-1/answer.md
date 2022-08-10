@@ -1,5 +1,4 @@
-# Launch an EC2 instance and login via ssh furthermore, install httpd(apache).
-
+# 1. Launch an EC2 instance and login via ssh furthermore, install httpd(apache).
 
 ## EC2 instance with T2.micro configuration created in AWS:
 <img src="EC2-running.png" alt="EC2 instance running" /> 
