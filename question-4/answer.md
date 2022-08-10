@@ -4,13 +4,12 @@
 | Status Code | Meaning               |
 | ----------- | --------------------- |
 | 1. 200      | OK                    |
-| 2. 200      | OK                    |
-| 3. 201      | Created               |
-| 4. 400      | Bad Request           |
-| 5. 401      | Unauthorized          |
-| 6. 402      | Payment Required      |
-| 7. 403      | Forbidden             |
-| 8. 404      | Not Found             |
-| 9. 405      | Method Not Allowed    |
-| 10. 500     | Internal Server Error |
-| 11. 502     | Bad Gateway           |
+| 2. 201      | Created               |
+| 3. 400      | Bad Request           |
+| 4. 401      | Unauthorized          |
+| 5. 403      | Forbidden             |
+| 6. 404      | Not Found             |
+| 7. 405      | Method Not Allowed    |
+| 8. 500      | Internal Server Error |
+| 9. 502      | Bad Gateway           |
+| 10. 503     | Service Unavailable   |

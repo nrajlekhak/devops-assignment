@@ -3,8 +3,8 @@
 # Docker Images for Nodejs and React
 
 ## Nodejs image in Docker Hub
-<img src="node.png" alt="Nodejs image in Docker Hub" /> [nodejs image link](https://hub.docker.com/repository/docker/lekhakhimself/devops-session)
+<img src="node.png" alt="Nodejs image in Docker Hub" /> <br> [nodejs image link](https://hub.docker.com/repository/docker/lekhakhimself/devops-session)
 
 
 ## React image in Docker Hub
-<img src="react.png" alt="React image in Docker Hub" /> [react image link](https://hub.docker.com/repository/docker/lekhakhimself/devops-session-react)
+<img src="react.png" alt="React image in Docker Hub" /> <br> [react image link](https://hub.docker.com/repository/docker/lekhakhimself/devops-session-react)
